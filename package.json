@@ -1,0 +1,30 @@
+{
+  "version": "0.0.1",
+  "description": "A virtual list that optimizes the rendering of DOM according to the visible area and available data.",
+  "main": "virtual-list.js",
+  "module": "virtual-list.js",
+  "flat": true,
+  "directories": {},
+  "devDependencies": {
+    "lit-html": "latest",
+    "preact": "^8.2.6",
+    "streaming-spec": "github:jakearchibald/streaming-html-spec#master"
+  },
+  "scripts": {
+    "gh-pages": "./deploy-to-gh-pages.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolymerLabs/virtual-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolymerLabs/virtual-list/issues"
+  },
+  "homepage": "https://github.com/PolymerLabs/virtual-list#readme",
+  "dependencies": {
+    "virtual-list": "github:PolymerLabs/virtual-list#master"
+  }
+}

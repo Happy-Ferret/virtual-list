@@ -1,0 +1,39 @@
+{
+  "_from": "github:jakearchibald/streaming-html-spec#master",
+  "_id": "streaming-spec@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/streaming-spec",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "streaming-spec@github:jakearchibald/streaming-html-spec#master",
+    "name": "streaming-spec",
+    "escapedName": "streaming-spec",
+    "rawSpec": "github:jakearchibald/streaming-html-spec#master",
+    "saveSpec": "github:jakearchibald/streaming-html-spec#master",
+    "fetchSpec": null,
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "github:jakearchibald/streaming-html-spec#03f5558a6db9bd7dd42d3ef7050af0e34e5e01d3",
+  "_spec": "streaming-spec@github:jakearchibald/streaming-html-spec#master",
+  "_where": "/Users/valdrin/dev/virtual-list/virtual-list",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "",
+  "devDependencies": {
+    "semistandard": "^12.0.0"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "streaming-spec",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
